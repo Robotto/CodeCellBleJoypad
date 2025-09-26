@@ -1,4 +1,6 @@
-Board: Codecell C3. pinout: https://moore.dk/codecellPinout.webp
+Board: Codecell C3. 
+
+![Codecell pinout](https://moore.dk/codecellPinout.webp)
 
 Reads Pitch, Roll, Yaw from the Codecell's On-board IMU - Maps it to axes on a bluetooth joypad
 
