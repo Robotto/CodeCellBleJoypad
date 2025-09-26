@@ -1,6 +1,7 @@
 Board: Codecell C3. 
 
-![Codecell pinout](https://moore.dk/codecellPinout.webp | width=50%)
+<img src="https://moore.dk/codecellPinout.webp" width="50%">
+
 
 Reads Pitch, Roll, Yaw from the Codecell's On-board IMU - Maps it to axes on a bluetooth joypad
 
